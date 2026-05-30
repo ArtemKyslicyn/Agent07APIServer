@@ -5,6 +5,7 @@ Built on `Network.framework` — no Vapor, no SwiftNIO, no system
 libraries to install. Pairs with Bonjour service advertising so iOS
 companion apps can discover the host on the LAN.
 
+[![CI](https://github.com/ArtemKyslicyn/Agent07APIServer/actions/workflows/ci.yml/badge.svg)](https://github.com/ArtemKyslicyn/Agent07APIServer/actions/workflows/ci.yml)
 [![Swift 6](https://img.shields.io/badge/Swift-6.0-orange.svg)](https://swift.org)
 [![Platforms](https://img.shields.io/badge/Platforms-macOS%2014%2B%20%7C%20iOS%2017%2B-blue.svg)](#)
 [![SPM](https://img.shields.io/badge/SwiftPM-compatible-brightgreen.svg)](#install)
