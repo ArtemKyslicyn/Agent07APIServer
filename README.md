@@ -10,7 +10,7 @@ advertising so iOS companion apps can discover the host on the local network.
 [![Platforms](https://img.shields.io/badge/Platforms-macOS%2014%2B%20%7C%20iOS%2017%2B-blue.svg)](#)
 [![SPM](https://img.shields.io/badge/SwiftPM-compatible-brightgreen.svg)](#install)
 [![Tests](https://img.shields.io/badge/Tests-53%20passing-success.svg)](#testing)
-[![Coverage](https://img.shields.io/badge/Coverage-51%25-yellow.svg)](#testing)
+[![Coverage](https://img.shields.io/badge/Coverage-55%25-yellow.svg)](#testing)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
